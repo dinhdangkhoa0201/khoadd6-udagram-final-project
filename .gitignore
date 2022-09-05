@@ -1,0 +1,13 @@
+# package directories
+khoadd6-udacity-final-backend/node_modules
+khoadd6-udacity-final-frontend/node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
+
+# Local DynamoDb
+.dynamodb
